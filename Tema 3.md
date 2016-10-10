@@ -1,7 +1,6 @@
 # Ejercicios tema 3
 
 1. Show all the jpg pictures in the current directory.
-
 ```console
 $ ls *.jpg
 ```
